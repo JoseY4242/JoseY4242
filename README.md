@@ -11,7 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 - <b>PC Hardware and Repairs</b>
-  - [Chaning CPU thermal paste](https://github.com/JoseY4242/configure-ad/blob/main/README.md)
+  - [Chaning CPU thermal paste](https://github.com/JoseY4242/change-thermal-paste)
 
 
 <h2>🤳Connect with me:</h2>
